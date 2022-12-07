@@ -13,7 +13,7 @@
   <a href="http://qiita.com/ShunTakaki">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ShunTakaki/posts.svg" />
   </a>
-  <//qiita.com/ShunTakaki">
+  <a href="http://qiita.com/ShunTakaki">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ShunTakaki/contributions.svg" />
   </a>
 </p>

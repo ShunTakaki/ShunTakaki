@@ -1,3 +1,5 @@
+## 👋 Hi! I'm ShunTakaki
+
 <p align="left">
   <a href="https://github.com/ShunTakaki/ShunTakaki/">
     <img src="https://komarev.com/ghpvc/?username=ShunTakaki" alt="ShunTakaki" />

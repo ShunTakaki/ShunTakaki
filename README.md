@@ -17,3 +17,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ShunTakaki/contributions.svg" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShunTakaki)](https://github.com/ryo-ma/github-profile-trophy)

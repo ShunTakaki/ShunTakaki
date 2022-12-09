@@ -18,6 +18,14 @@
   </a>
 </p>
 
+<p align="left"> 
+  <a href="https://twitter.com/tkshun">
+    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  </a>
+  <a href="https://qiita.com/ShunTakaki">
+    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
+  </a>
+</p>
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
